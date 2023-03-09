@@ -30,7 +30,7 @@ Finally, Das reminded us that negotiation isn't just about salary. There are man
 If you're looking to improve your negotiation skills, Das recommended several resources:
 
 - _Never Split the Difference_ by Chris Voss
-- _My Ten Rules for Negotiating a Job Offer_ by Habseeb Quereshi
-- _Girls That Invest_ by Simran and Sonya (book and podcast)
+- [_My Ten Rules for Negotiating a Job Offer_](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/) by Habseeb Quereshi
+- [_Girls That Invest_ by Simran and Sonya](https://amzn.to/3yoxmPI) (book and [podcast](https://girlsthatinvest.com/))
 
 By following these tips and resources, you'll be well on your way to becoming a master negotiator. So go ahead and negotiate like your life depends on it!
