@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/tech-lead-conf-2023-notes/static/css/main.a7afc894.css",
-    "main.js": "/tech-lead-conf-2023-notes/static/js/main.36c0b425.js",
-    "static/js/787.de10b891.chunk.js": "/tech-lead-conf-2023-notes/static/js/787.de10b891.chunk.js",
-    "static/media/process-for-the-process-averse-summary-of-tara-manicsic.md": "/tech-lead-conf-2023-notes/static/media/process-for-the-process-averse-summary-of-tara-manicsic.705a0804530f074e4770.md",
-    "static/media/how-to-get-a-mentee-without-telling-them-summary-of-erin-fox.md": "/tech-lead-conf-2023-notes/static/media/how-to-get-a-mentee-without-telling-them-summary-of-erin-fox.6e80fc868bc35a5ed23d.md",
-    "static/media/the-rewrite-trap-summary-of-phillip-giese.md": "/tech-lead-conf-2023-notes/static/media/the-rewrite-trap-summary-of-phillip-giese.14e1e3b6f2994244cea8.md",
-    "static/media/negotiate-like-your-life-depends-on-it-summary-of-shivangi-das.md": "/tech-lead-conf-2023-notes/static/media/negotiate-like-your-life-depends-on-it-summary-of-shivangi-das.abad2dae3092fd12bbe0.md",
-    "static/media/effective-communication-for-engineers-summary-of-naz-delams-talk.md": "/tech-lead-conf-2023-notes/static/media/effective-communication-for-engineers-summary-of-naz-delams-talk.ab2e398b01f0861dd3bf.md",
-    "static/media/the-game-theory-of-software-decisions-summary-of-ziv-levys-talk.md": "/tech-lead-conf-2023-notes/static/media/the-game-theory-of-software-decisions-summary-of-ziv-levys-talk.a378bf99c0313ff52930.md",
-    "static/media/a-framework-for-managing-technical-debt-summary-of-alex-moldovan.md": "/tech-lead-conf-2023-notes/static/media/a-framework-for-managing-technical-debt-summary-of-alex-moldovan.d9354eb7b28f0a62a73f.md",
-    "index.html": "/tech-lead-conf-2023-notes/index.html",
-    "main.a7afc894.css.map": "/tech-lead-conf-2023-notes/static/css/main.a7afc894.css.map",
-    "main.36c0b425.js.map": "/tech-lead-conf-2023-notes/static/js/main.36c0b425.js.map",
-    "787.de10b891.chunk.js.map": "/tech-lead-conf-2023-notes/static/js/787.de10b891.chunk.js.map"
+    "main.css": "/static/css/main.31f268a0.css",
+    "main.js": "/static/js/main.64258664.js",
+    "static/js/787.de10b891.chunk.js": "/static/js/787.de10b891.chunk.js",
+    "static/media/process-for-the-process-averse-summary-of-tara-manicsic.md": "/static/media/process-for-the-process-averse-summary-of-tara-manicsic.705a0804530f074e4770.md",
+    "static/media/how-to-get-a-mentee-without-telling-them-summary-of-erin-fox.md": "/static/media/how-to-get-a-mentee-without-telling-them-summary-of-erin-fox.6e80fc868bc35a5ed23d.md",
+    "static/media/the-rewrite-trap-summary-of-phillip-giese.md": "/static/media/the-rewrite-trap-summary-of-phillip-giese.14e1e3b6f2994244cea8.md",
+    "static/media/negotiate-like-your-life-depends-on-it-summary-of-shivangi-das.md": "/static/media/negotiate-like-your-life-depends-on-it-summary-of-shivangi-das.abad2dae3092fd12bbe0.md",
+    "static/media/effective-communication-for-engineers-summary-of-naz-delams-talk.md": "/static/media/effective-communication-for-engineers-summary-of-naz-delams-talk.ab2e398b01f0861dd3bf.md",
+    "static/media/the-game-theory-of-software-decisions-summary-of-ziv-levys-talk.md": "/static/media/the-game-theory-of-software-decisions-summary-of-ziv-levys-talk.a378bf99c0313ff52930.md",
+    "static/media/a-framework-for-managing-technical-debt-summary-of-alex-moldovan.md": "/static/media/a-framework-for-managing-technical-debt-summary-of-alex-moldovan.d9354eb7b28f0a62a73f.md",
+    "index.html": "/index.html",
+    "main.31f268a0.css.map": "/static/css/main.31f268a0.css.map",
+    "main.64258664.js.map": "/static/js/main.64258664.js.map",
+    "787.de10b891.chunk.js.map": "/static/js/787.de10b891.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a7afc894.css",
-    "static/js/main.36c0b425.js"
+    "static/css/main.31f268a0.css",
+    "static/js/main.64258664.js"
   ]
 }
