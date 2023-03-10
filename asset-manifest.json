@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tech-lead-conf-2023-notes/static/css/main.31f268a0.css",
-    "main.js": "/tech-lead-conf-2023-notes/static/js/main.0420c7e3.js",
+    "main.js": "/tech-lead-conf-2023-notes/static/js/main.37d0e514.js",
     "static/js/787.de10b891.chunk.js": "/tech-lead-conf-2023-notes/static/js/787.de10b891.chunk.js",
     "static/media/process-for-the-process-averse-summary-of-tara-manicsic.md": "/tech-lead-conf-2023-notes/static/media/process-for-the-process-averse-summary-of-tara-manicsic.705a0804530f074e4770.md",
     "static/media/how-to-get-a-mentee-without-telling-them-summary-of-erin-fox.md": "/tech-lead-conf-2023-notes/static/media/how-to-get-a-mentee-without-telling-them-summary-of-erin-fox.6e80fc868bc35a5ed23d.md",
@@ -12,11 +12,11 @@
     "static/media/a-framework-for-managing-technical-debt-summary-of-alex-moldovan.md": "/tech-lead-conf-2023-notes/static/media/a-framework-for-managing-technical-debt-summary-of-alex-moldovan.d9354eb7b28f0a62a73f.md",
     "index.html": "/tech-lead-conf-2023-notes/index.html",
     "main.31f268a0.css.map": "/tech-lead-conf-2023-notes/static/css/main.31f268a0.css.map",
-    "main.0420c7e3.js.map": "/tech-lead-conf-2023-notes/static/js/main.0420c7e3.js.map",
+    "main.37d0e514.js.map": "/tech-lead-conf-2023-notes/static/js/main.37d0e514.js.map",
     "787.de10b891.chunk.js.map": "/tech-lead-conf-2023-notes/static/js/787.de10b891.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31f268a0.css",
-    "static/js/main.0420c7e3.js"
+    "static/js/main.37d0e514.js"
   ]
 }
