@@ -9,16 +9,14 @@ function MarkdownRenderer() {
   const { slug } = useParams();
 
   useEffect(() => {
-    const markdownFile = require(`../public/talks/${slug}.md`);
+    const markdownFile = require(`../../public/talks/${slug}.md`);
     fetch(markdownFile)
       .then((response) => response.text())
       .then((text) => setMarkdown(text));
   }, [slug]);
 
   return (
-    <div className="markdown">
-      <ReactMarkdown>{markdown}</ReactMarkdown>
-    </div>
+    <ReactMarkdown className='markdown'>{markdown}</ReactMarkdown>
   );
 }
 
