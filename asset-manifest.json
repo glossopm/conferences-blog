@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tech-lead-conf-2023-notes/static/css/main.d6f7811d.css",
-    "main.js": "/tech-lead-conf-2023-notes/static/js/main.439e35bf.js",
+    "main.css": "/tech-lead-conf-2023-notes/static/css/main.b8e94696.css",
+    "main.js": "/tech-lead-conf-2023-notes/static/js/main.cffdcf69.js",
     "static/js/787.de10b891.chunk.js": "/tech-lead-conf-2023-notes/static/js/787.de10b891.chunk.js",
     "static/media/roboto-all-500-normal.woff": "/tech-lead-conf-2023-notes/static/media/roboto-all-500-normal.0ab669b7a0d19b178f57.woff",
     "static/media/roboto-all-700-normal.woff": "/tech-lead-conf-2023-notes/static/media/roboto-all-700-normal.a457fde362a540fcadff.woff",
@@ -43,12 +43,12 @@
     "static/media/roboto-greek-ext-300-normal.woff2": "/tech-lead-conf-2023-notes/static/media/roboto-greek-ext-300-normal.35b9d6be04b95f0f0530.woff2",
     "static/media/roboto-greek-ext-700-normal.woff2": "/tech-lead-conf-2023-notes/static/media/roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
     "index.html": "/tech-lead-conf-2023-notes/index.html",
-    "main.d6f7811d.css.map": "/tech-lead-conf-2023-notes/static/css/main.d6f7811d.css.map",
-    "main.439e35bf.js.map": "/tech-lead-conf-2023-notes/static/js/main.439e35bf.js.map",
+    "main.b8e94696.css.map": "/tech-lead-conf-2023-notes/static/css/main.b8e94696.css.map",
+    "main.cffdcf69.js.map": "/tech-lead-conf-2023-notes/static/js/main.cffdcf69.js.map",
     "787.de10b891.chunk.js.map": "/tech-lead-conf-2023-notes/static/js/787.de10b891.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6f7811d.css",
-    "static/js/main.439e35bf.js"
+    "static/css/main.b8e94696.css",
+    "static/js/main.cffdcf69.js"
   ]
 }
