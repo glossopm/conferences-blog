@@ -1,8 +1,6 @@
-const kebabToCapitalCase = (str: string): string => {
-  return str
-    .split("-")
-    .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
-    .join(" ");
-};
+const kebabToCapitalCase = (str: string): string => str
+  .split('-')
+  .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
+  .join(' ');
 
 export default kebabToCapitalCase;

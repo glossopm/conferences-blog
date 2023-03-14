@@ -3,20 +3,22 @@ import './MarkdownRenderer.scss';
 import { useParams } from 'react-router-dom';
 import ReactMarkdown from 'react-markdown';
 
-
 function MarkdownRenderer() {
   const [markdown, setMarkdown] = useState('');
   const { slug } = useParams();
 
   useEffect(() => {
-    const markdownFile = require(`../../public/talks/${slug}.md`);
-    fetch(markdownFile)
-      .then((response) => response.text())
-      .then((text) => setMarkdown(text));
+    async function getFile() {
+      const markdownFile = await import(`../../public/talks/${slug}.md`);
+      fetch(markdownFile)
+        .then(async (response) => response.text())
+        .then((text) => { setMarkdown(text); });
+    }
+    getFile();
   }, [slug]);
 
   return (
-    <ReactMarkdown className='markdown'>{markdown}</ReactMarkdown>
+    <ReactMarkdown className="markdown">{markdown}</ReactMarkdown>
   );
 }
 
