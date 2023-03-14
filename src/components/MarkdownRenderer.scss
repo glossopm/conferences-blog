@@ -1,0 +1,45 @@
+.markdown {
+  line-height: 1.5;
+}
+
+h1, h2, h3 {
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+ul {
+  margin-bottom: 20px;
+}
+
+li {
+  margin-left: 20px;
+}
+
+p, blockquote, pre {
+  margin-bottom: 20px;
+}
+
+blockquote {
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 20px;
+  border-left: 5px solid #e6e6e6;
+}
+
+pre {
+  background-color: #f6f8fa;
+  color: #4c4c4c;
+  padding: 20px;
+}
