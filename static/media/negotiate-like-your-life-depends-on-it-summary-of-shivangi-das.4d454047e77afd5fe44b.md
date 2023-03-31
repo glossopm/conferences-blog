@@ -1,6 +1,6 @@
 # Negotiate Like Your Life Depends on It: Lessons from Shivangi Das
 
-Negotiation can be intimidating, but it's a crucial skill in today's workplace. From salary negotiations to securing flexible work arrangements, the ability to negotiate effectively can have a significant impact on your career and your quality of life. In a recent talk by Shivangi Das, a negotiation expert and founder of Master Negotiator, we learned that negotiation isn't about being aggressive or manipulative; it's about understanding your worth and advocating for yourself.
+Negotiation can be intimidating, but it's a crucial skill in today's workplace. From salary negotiations to securing flexible work arrangements, the ability to negotiate effectively can have a significant impact on your career and your quality of life. In a recent talk by Shivangi Das, a negotiation expert, we learned that negotiation isn't about being aggressive or manipulative; it's about understanding your worth and advocating for yourself.
 
 ## Why Negotiate?
 

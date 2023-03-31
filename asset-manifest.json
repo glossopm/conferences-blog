@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tech-lead-conf-2023-notes/static/css/main.b8e94696.css",
-    "main.js": "/tech-lead-conf-2023-notes/static/js/main.cffdcf69.js",
+    "main.js": "/tech-lead-conf-2023-notes/static/js/main.e5b77c38.js",
     "static/js/787.de10b891.chunk.js": "/tech-lead-conf-2023-notes/static/js/787.de10b891.chunk.js",
     "static/media/roboto-all-500-normal.woff": "/tech-lead-conf-2023-notes/static/media/roboto-all-500-normal.0ab669b7a0d19b178f57.woff",
     "static/media/roboto-all-700-normal.woff": "/tech-lead-conf-2023-notes/static/media/roboto-all-700-normal.a457fde362a540fcadff.woff",
@@ -31,12 +31,12 @@
     "static/media/roboto-vietnamese-400-normal.woff2": "/tech-lead-conf-2023-notes/static/media/roboto-vietnamese-400-normal.3230f9b040f3c630e0c3.woff2",
     "static/media/roboto-vietnamese-700-normal.woff2": "/tech-lead-conf-2023-notes/static/media/roboto-vietnamese-700-normal.3425a701027d0699e369.woff2",
     "static/media/roboto-vietnamese-300-normal.woff2": "/tech-lead-conf-2023-notes/static/media/roboto-vietnamese-300-normal.32fc45a3d1e8ea11fabc.woff2",
-    "static/media/process-for-the-process-averse-summary-of-tara-manicsic.md": "/tech-lead-conf-2023-notes/static/media/process-for-the-process-averse-summary-of-tara-manicsic.705a0804530f074e4770.md",
-    "static/media/how-to-get-a-mentee-without-telling-them-summary-of-erin-fox.md": "/tech-lead-conf-2023-notes/static/media/how-to-get-a-mentee-without-telling-them-summary-of-erin-fox.6e80fc868bc35a5ed23d.md",
+    "static/media/process-for-the-process-averse-summary-of-tara-manicsic.md": "/tech-lead-conf-2023-notes/static/media/process-for-the-process-averse-summary-of-tara-manicsic.e20bf1e769d0c99b0ae8.md",
+    "static/media/how-to-get-a-mentee-without-telling-them-summary-of-erin-fox.md": "/tech-lead-conf-2023-notes/static/media/how-to-get-a-mentee-without-telling-them-summary-of-erin-fox.2a406d2833ce1f77452b.md",
     "static/media/the-rewrite-trap-summary-of-phillip-giese.md": "/tech-lead-conf-2023-notes/static/media/the-rewrite-trap-summary-of-phillip-giese.14e1e3b6f2994244cea8.md",
-    "static/media/negotiate-like-your-life-depends-on-it-summary-of-shivangi-das.md": "/tech-lead-conf-2023-notes/static/media/negotiate-like-your-life-depends-on-it-summary-of-shivangi-das.abad2dae3092fd12bbe0.md",
-    "static/media/effective-communication-for-engineers-summary-of-naz-delams-talk.md": "/tech-lead-conf-2023-notes/static/media/effective-communication-for-engineers-summary-of-naz-delams-talk.ab2e398b01f0861dd3bf.md",
-    "static/media/the-game-theory-of-software-decisions-summary-of-ziv-levys-talk.md": "/tech-lead-conf-2023-notes/static/media/the-game-theory-of-software-decisions-summary-of-ziv-levys-talk.a378bf99c0313ff52930.md",
+    "static/media/negotiate-like-your-life-depends-on-it-summary-of-shivangi-das.md": "/tech-lead-conf-2023-notes/static/media/negotiate-like-your-life-depends-on-it-summary-of-shivangi-das.4d454047e77afd5fe44b.md",
+    "static/media/effective-communication-for-engineers-summary-of-naz-delams-talk.md": "/tech-lead-conf-2023-notes/static/media/effective-communication-for-engineers-summary-of-naz-delams-talk.8115fe99d3a2346b2048.md",
+    "static/media/the-game-theory-of-software-decisions-summary-of-ziv-levys-talk.md": "/tech-lead-conf-2023-notes/static/media/the-game-theory-of-software-decisions-summary-of-ziv-levys-talk.bbd889e00c01fe8ad460.md",
     "static/media/a-framework-for-managing-technical-debt-summary-of-alex-moldovan.md": "/tech-lead-conf-2023-notes/static/media/a-framework-for-managing-technical-debt-summary-of-alex-moldovan.d9354eb7b28f0a62a73f.md",
     "static/media/roboto-greek-ext-500-normal.woff2": "/tech-lead-conf-2023-notes/static/media/roboto-greek-ext-500-normal.6fb9cffb1d3e72bf9293.woff2",
     "static/media/roboto-greek-ext-400-normal.woff2": "/tech-lead-conf-2023-notes/static/media/roboto-greek-ext-400-normal.169619821ea93019d1bb.woff2",
@@ -44,11 +44,11 @@
     "static/media/roboto-greek-ext-700-normal.woff2": "/tech-lead-conf-2023-notes/static/media/roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
     "index.html": "/tech-lead-conf-2023-notes/index.html",
     "main.b8e94696.css.map": "/tech-lead-conf-2023-notes/static/css/main.b8e94696.css.map",
-    "main.cffdcf69.js.map": "/tech-lead-conf-2023-notes/static/js/main.cffdcf69.js.map",
+    "main.e5b77c38.js.map": "/tech-lead-conf-2023-notes/static/js/main.e5b77c38.js.map",
     "787.de10b891.chunk.js.map": "/tech-lead-conf-2023-notes/static/js/787.de10b891.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b8e94696.css",
-    "static/js/main.cffdcf69.js"
+    "static/js/main.e5b77c38.js"
   ]
 }
