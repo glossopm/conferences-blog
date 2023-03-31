@@ -47,7 +47,7 @@ function Home() {
           Talk Summaries
         </Typography>
         <Grid container spacing={3}>
-          {talks.map((talk) => (<TalkCard talk={talk} />))}
+          {talks.map((talk) => (<TalkCard key={talk.id} talk={talk} />))}
         </Grid>
       </Container>
     </>
