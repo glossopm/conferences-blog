@@ -37,6 +37,7 @@ export const talks: Talk[] = [
     originAuthor: 'Tara Z. Manicsic',
     summaryPath: '/talks/process-for-the-process-averse-summary-of-tara-manicsic',
     conference: 'Tech Lead Conf 2023',
+    talkUrl: 'https://portal.gitnation.org/contents/processes-for-the-process-averse',
   },
   {
     id: 6,
