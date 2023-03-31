@@ -6,7 +6,7 @@ Communication is essential in any workplace, and engineers are no exception. How
 
 The Think Feel Do model is a useful framework for structuring your message. It involves thinking about what you want the other person to think, feel, and do. When communicating with your colleagues, consider how you can frame your message to get the outcome you want.
 
-> "To get the ball rolling, I suggest you edit the odd chapter, and I'll do the even one. But if you have something else in mind, please let me know right away."
+> "To get the ball rolling, I suggest you edit the odd chapter, and I'll do the even ones. But if you have something else in mind, please let me know right away."
 
 This approach not only communicates your intent but also shows that you're open to feedback and suggestions.
 

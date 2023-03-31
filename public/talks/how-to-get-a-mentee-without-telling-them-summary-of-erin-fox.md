@@ -1,6 +1,6 @@
 # How to Get a Mentor Without Telling Them (or Secretly Get a Mentee)
 
-Have you ever wanted a mentor but didn't know how to ask? Or have you ever wanted to mentor someone but didn't know how to approach them? Erin Fox, a software engineer, shares some tips and stories on how to get a mentor or mentee without directly asking.
+Have you ever wanted a mentor but didn't know how to ask? Or have you ever wanted to mentor someone but didn't know how to approach them? In her talk, Erin Fox, a software engineer, shares some tips and stories on how to get a mentor or mentee without directly asking.
 
 ## Goals
 - Learn how to be a good mentor or mentee
@@ -19,7 +19,7 @@ A good mentor shares knowledge and helps others. They listen and explain hard co
 Being a good mentee means being open and willing to learn. It also means showing up prepared with questions and valuing your mentor's time.
 
 ## Stories of Mentorship
-Erin shared three stories of how she found mentors without directly asking them:
+Erin shared three stories of different ways she found mentors without directly asking them:
 
 1. **Mentorship Programs** - One company Erin worked for had a mentorship program where employees could pair up with a teammate once a week for an hour. The program had shared goals, and participants could work on side-projects for the company. You can even set up a mentorship program with a colleague during Learning and Development time.
 2. **Pair Programming** - Participating in pair programming can be a good way of getting and giving micro-mentorship opportunities.

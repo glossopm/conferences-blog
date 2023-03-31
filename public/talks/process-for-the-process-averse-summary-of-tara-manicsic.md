@@ -49,7 +49,7 @@ Once the foundation is laid, the next step is to form a process. Here are some d
 - **Messing with their flow**: Avoid disrupting team members' workflows.
 - **Getting the team stuck**: Ensure that the process does not cause the team to get stuck.
 - **Not communicating delays**: Keep team members informed of any delays.
-- Blaming: Avoid blaming team members if the process does not work as expected.
+- **Blaming**: Avoid blaming team members if the process does not work as expected.
 
 ## Finally: Iteration
 
@@ -70,7 +70,7 @@ Once the process is in place, it is essential to iterate and refine it continual
 #### Automation
 
 - **What worked**: Identify what automation worked well and what did not.
-- **What can be automated further: Look for opportunities to automate further to save time.
+- **What can be automated further**: Look for opportunities to automate further to save time.
 
 #### Feedback
 

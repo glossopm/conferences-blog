@@ -1,7 +1,5 @@
 # The Game Theory of Software Decisions
 
-Notes from Ziv Levy's talk at the conference
-
 Have you ever made a decision that you later regretted? It's common in software development, where every decision can have significant consequences. In his talk, Ziv Levy shared some insights on how to make better software decisions and avoid unnecessary drama.
 
 ## Learn to Let Go
