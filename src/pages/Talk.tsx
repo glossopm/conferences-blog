@@ -1,8 +1,10 @@
 import React from 'react';
-import { Container, type Theme } from '@mui/material';
+import { Container, Link, type Theme } from '@mui/material';
 import { makeStyles } from '@mui/styles';
 
+import { useParams } from 'react-router-dom';
 import MarkdownRenderer from '../components/MarkdownRenderer';
+import { talks } from '../config/talks';
 
 const useStyles = makeStyles((theme: Theme) => ({
   hero: {
@@ -34,10 +36,26 @@ const useStyles = makeStyles((theme: Theme) => ({
 
 function Talk() {
   const classes = useStyles();
+  const { slug } = useParams();
+
+  const talkUrl = slug && talks.find((talk) => talk.summaryPath.includes(slug))?.talkUrl;
 
   return (
     <Container maxWidth="sm" className={classes.blogsContainer}>
       <MarkdownRenderer />
+      {talkUrl && (
+      <div>
+        <h2>
+          Watch the full talk
+        </h2>
+        If you found this interesting,
+        why don&apos;t you check out the full talk on GitNation. You can find the talk
+        {' '}
+        <Link href={talkUrl} target="_blank" rel="noopener">
+          here.
+        </Link>
+      </div>
+      )}
     </Container>
   );
 }

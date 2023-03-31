@@ -9,7 +9,9 @@ import {
   CardActions,
   Avatar,
   Link as MuiLink,
+  Button,
 } from '@mui/material';
+import VideocamIcon from '@mui/icons-material/Videocam';
 
 import React from 'react';
 import { Link as RouterLink } from 'react-router-dom';
@@ -46,6 +48,7 @@ function TalkCard({ talk }: Props) {
         <CardActions
           sx={{
             display: 'flex',
+            flexDirection: 'column',
             margin: '0 10px',
             justifyContent: 'space-between',
           }}
@@ -61,6 +64,14 @@ function TalkCard({ talk }: Props) {
               </Typography>
             </Box>
           </Box>
+          {talk.talkUrl
+          && (
+          <Box sx={{ display: 'flex', justifyContent: 'center', margin: '12px' }}>
+            <Button variant="outlined" startIcon={<VideocamIcon />} href={talk.talkUrl} target="_blank" rel="noopener">
+              Watch talk here
+            </Button>
+          </Box>
+          )}
         </CardActions>
       </Card>
     </Grid>
