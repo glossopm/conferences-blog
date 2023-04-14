@@ -17,12 +17,15 @@ import React from 'react';
 import { Link as RouterLink } from 'react-router-dom';
 import type { Talk } from '../config/talks';
 import stringAvatar from '../utils/stringAvatar';
+import { conferences } from '../config/conferences';
 
 interface Props {
   talk: Talk
 }
 
 function TalkCard({ talk }: Props) {
+  const imageUrl = conferences.find((conference) => conference.name === talk.conference)?.imgUrl;
+
   return (
     <Grid item xs={12} sm={6} md={4}>
       <Card>
@@ -32,7 +35,7 @@ function TalkCard({ talk }: Props) {
               sx={{
                 height: 240,
               }}
-              image="https://techleadconf.com/img/logo.svg"
+              image={imageUrl}
               title="Contemplative Reptile"
             />
             <CardContent>

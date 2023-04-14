@@ -5,7 +5,7 @@ import './MarkdownRenderer.scss';
 import { useParams } from 'react-router-dom';
 import ReactMarkdown from 'react-markdown';
 
-function MarkdownRenderer() {
+function MarkdownRenderer({ folder } : { folder: string }) {
   const [markdown, setMarkdown] = useState('');
   const [error, setError] = useState(false);
 
@@ -14,7 +14,7 @@ function MarkdownRenderer() {
   useEffect(() => {
     async function getFile() {
       const publicUrl = process.env.PUBLIC_URL || '';
-      const response = await fetch(`${publicUrl}/talks/${slug}.md`);
+      const response = await fetch(`${publicUrl}/${folder}/${slug}.md`);
 
       if (response.ok && response.headers.get('Content-Type')?.includes('text/markdown')) {
         const text = await response.text();
@@ -32,7 +32,7 @@ function MarkdownRenderer() {
   }
 
   return (
-    <ReactMarkdown className="markdown">{markdown}</ReactMarkdown>
+    <ReactMarkdown linkTarget="_blank" className="markdown">{markdown}</ReactMarkdown>
   );
 }
 

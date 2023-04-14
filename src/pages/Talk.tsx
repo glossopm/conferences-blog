@@ -38,18 +38,31 @@ function Talk() {
   const classes = useStyles();
   const { slug } = useParams();
 
-  const talkUrl = slug && talks.find((talk) => talk.summaryPath.includes(slug))?.talkUrl;
+  const talkConfig = slug && talks.find(
+    (talk) => talk.summaryPath.includes(slug),
+  );
 
+  const talkUrl = talkConfig && talkConfig?.talkUrl;
+  const folder = talkConfig && talkConfig?.summaryPath.split('/')[1];
+  const type = folder === 'talks' ? 'talk' : 'workshop';
   return (
     <Container maxWidth="sm" className={classes.blogsContainer}>
-      <MarkdownRenderer />
+      {folder && <MarkdownRenderer folder={folder} />}
       {talkUrl && (
       <div>
         <h2>
-          Watch the full talk
+          Watch the full
+          {' '}
+          {type}
         </h2>
         If you found this interesting,
-        why don&apos;t you check out the full talk on GitNation. You can find the talk
+        why don&apos;t you check out the full
+        {' '}
+        {type}
+        {' '}
+        on GitNation. You can find the
+        {' '}
+        {type}
         {' '}
         <Link href={talkUrl} target="_blank" rel="noopener">
           here.

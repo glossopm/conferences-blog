@@ -55,6 +55,14 @@ export const talks: Talk[] = [
     conference: 'Tech Lead Conf 2023',
     talkUrl: 'https://portal.gitnation.org/contents/the-rewrite-trap',
   },
+  {
+    id: 8,
+    name: 'Node Monorepos with Nx with Isaac Mann',
+    originAuthor: 'Isaac Mann',
+    summaryPath: '/workshops/node-monorepos-with-nx-isaac-mann',
+    conference: 'Node Congress 2023',
+    talkUrl: 'https://portal.gitnation.org/contents/node-monorepos-with-nx',
+  },
 ];
 
 export interface Talk {

@@ -5,6 +5,7 @@ import Home from './pages/Home';
 import Talk from './pages/Talk';
 import TalkList from './pages/TalkList';
 import Layout from './components/Layout';
+import WorkshopList from './pages/WorkshopList';
 
 function App() {
   return (
@@ -13,7 +14,9 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/talks/:slug" element={<Talk />} />
+          <Route path="/workshops/:slug" element={<Talk />} />
           <Route path="/talks" element={<TalkList />} />
+          <Route path="/workshops" element={<WorkshopList />} />
         </Routes>
       </Layout>
     </HashRouter>

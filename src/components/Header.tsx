@@ -27,7 +27,10 @@ function Home() {
             Home
           </LinkItem>
           <LinkItem component={RouterLink} to="/talks">
-            Talk Summaries
+            Talks Summaries
+          </LinkItem>
+          <LinkItem component={RouterLink} to="/workshops">
+            Workshops Summaries
           </LinkItem>
         </Typography>
       </Toolbar>

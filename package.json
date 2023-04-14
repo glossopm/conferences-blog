@@ -1,7 +1,7 @@
 {
   "name": "tech-lead-conf-2023-notes",
   "version": "0.1.0",
-  "homepage": "https://glossopm.github.io/tech-lead-conf-2023-notes/",
+  "homepage": "https://glossopm.github.io/conferences-blog/",
   "private": false,
   "main": "index.tsx",
   "dependencies": {

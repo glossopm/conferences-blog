@@ -16,6 +16,7 @@ const useStyles = makeStyles((theme: Theme) => ({
     backgroundSize: 'cover',
     position: 'relative',
     display: 'flex',
+    flexDirection: 'column',
     justifyContent: 'center',
     alignItems: 'center',
     color: '#fff',
@@ -40,11 +41,14 @@ function Home() {
   return (
     <>
       <Box className={classes.hero}>
-        <Box>Tech Lead Conf 2023- Talk Summaries</Box>
+        <Box>Conferences Blog</Box>
+        <Box>
+          <Typography variant="h4" className={classes.blogTitle}>by Malik Glossop </Typography>
+        </Box>
       </Box>
       <Container maxWidth="md" className={classes.blogsContainer}>
         <Typography variant="h4" className={classes.blogTitle}>
-          Talk Summaries
+          Featured
         </Typography>
         <Grid container spacing={3}>
           {talks.map((talk) => (<TalkCard key={talk.id} talk={talk} />))}
