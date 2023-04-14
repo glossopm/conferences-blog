@@ -1,4 +1,4 @@
-# Workshop Recap: Node Monorepos with Nx with Isaac Mann
+# Workshop Recap: Node Monorepos with Nx by Isaac Mann
 
 During a recent conference, NodeCongress 2023, I had the opportunity to attend a workshop by Isaac Mann on "Node Monorepos with Nx." Nx is a powerful monorepo tool that enables developers to manage multiple projects within a single repository. In this blog post, I'll share some key takeaways from the workshop, along with additional insights I've gathered from the Nx official website.
 
