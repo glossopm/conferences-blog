@@ -43,7 +43,7 @@ function Home() {
       <Box className={classes.hero}>
         <Box>Conferences Blog</Box>
         <Box>
-          <Typography variant="h4" className={classes.blogTitle}>by Malik Glossop </Typography>
+          <Typography variant="h4" className={classes.blogTitle}>by Malik G</Typography>
         </Box>
       </Box>
       <Container maxWidth="md" className={classes.blogsContainer}>
