@@ -89,7 +89,7 @@ npx create-nx-workspace [workspace name]
 
 The workspace name sets the directory, path alias, and npm scope for your projects.
 
-Visit the Nx official documentation at https://nx.dev/latest/angular/getting-started/intro for a comprehensive guide on setting up and using Nx in your projects.
+Visit the Nx official documentation at [https://nx.dev](https://nx.dev/latest/angular/getting-started/intro) for a comprehensive guide on setting up and using Nx in your projects.
 
 ## Labs
 
