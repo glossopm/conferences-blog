@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/conferences-blog/static/css/main.320d5501.css",
-    "main.js": "/conferences-blog/static/js/main.558f1b78.js",
+    "main.js": "/conferences-blog/static/js/main.00e1fec9.js",
     "static/js/787.93bee257.chunk.js": "/conferences-blog/static/js/787.93bee257.chunk.js",
     "static/media/roboto-all-500-normal.woff": "/conferences-blog/static/media/roboto-all-500-normal.0ab669b7a0d19b178f57.woff",
     "static/media/roboto-all-700-normal.woff": "/conferences-blog/static/media/roboto-all-700-normal.a457fde362a540fcadff.woff",
@@ -45,11 +45,11 @@
     "static/media/roboto-greek-ext-700-normal.woff2": "/conferences-blog/static/media/roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
     "index.html": "/conferences-blog/index.html",
     "main.320d5501.css.map": "/conferences-blog/static/css/main.320d5501.css.map",
-    "main.558f1b78.js.map": "/conferences-blog/static/js/main.558f1b78.js.map",
+    "main.00e1fec9.js.map": "/conferences-blog/static/js/main.00e1fec9.js.map",
     "787.93bee257.chunk.js.map": "/conferences-blog/static/js/787.93bee257.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.320d5501.css",
-    "static/js/main.558f1b78.js"
+    "static/js/main.00e1fec9.js"
   ]
 }
