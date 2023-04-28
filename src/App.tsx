@@ -3,9 +3,8 @@ import { Route, Routes, HashRouter } from 'react-router-dom';
 import './App.css';
 import Home from './pages/Home';
 import Talk from './pages/Talk';
-import TalkList from './pages/TalkList';
 import Layout from './components/Layout';
-import WorkshopList from './pages/WorkshopList';
+import ListByConference from './components/ListByConference';
 
 function App() {
   return (
@@ -15,8 +14,8 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/talks/:slug" element={<Talk />} />
           <Route path="/workshops/:slug" element={<Talk />} />
-          <Route path="/talks" element={<TalkList />} />
-          <Route path="/workshops" element={<WorkshopList />} />
+          <Route path="/talks" element={<ListByConference folder="talks" />} />
+          <Route path="/workshops" element={<ListByConference folder="workshops" />} />
         </Routes>
       </Layout>
     </HashRouter>
