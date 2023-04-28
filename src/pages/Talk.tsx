@@ -26,11 +26,15 @@ const useStyles = makeStyles((theme: Theme) => ({
   },
   blogsContainer: {
     paddingTop: theme.spacing(3),
+    paddingBottom: theme.spacing(3),
     height: '100vh',
   },
   blogTitle: {
     fontWeight: 800,
     paddingBottom: theme.spacing(3),
+  },
+  watchTalk: {
+    paddingBottom: theme.spacing(5),
   },
 }));
 
@@ -49,7 +53,7 @@ function Talk() {
     <Container maxWidth="sm" className={classes.blogsContainer}>
       {folder && <MarkdownRenderer folder={folder} />}
       {talkUrl && (
-      <div>
+      <div className={classes.watchTalk}>
         <h2>
           Watch the full
           {' '}

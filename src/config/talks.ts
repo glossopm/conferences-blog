@@ -63,6 +63,14 @@ export const talks: Talk[] = [
     conference: 'Node Congress 2023',
     talkUrl: 'https://portal.gitnation.org/contents/node-monorepos-with-nx',
   },
+  {
+    id: 9,
+    name: 'Tale of Two Repo - Strategies For Managing Monorepos',
+    originAuthor: 'Tally Barak',
+    summaryPath: '/talks/tale-of-two-repo-summary-of-tally-barak',
+    conference: 'Node Congress 2023',
+    talkUrl: 'https://portal.gitnation.org/contents/tale-of-two-repos',
+  },
 ];
 
 export interface Talk {
